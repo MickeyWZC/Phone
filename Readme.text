@@ -11,3 +11,5 @@ applications.wzc 和applications.test是一我写出的例子
 		4.导入jar包步骤：先把jar包加入到lib文件夹中
 		然后再点击项目右键Buildath->ConfigueBuildPath->
 		选择Libaraies->addJars->选择jar包
+		
+		ssssssssssssssssssssss
